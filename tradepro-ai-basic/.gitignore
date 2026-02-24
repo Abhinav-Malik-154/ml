@@ -1,0 +1,18 @@
+node_modules/
+dist/
+build/
+.env
+
+# Optional: Ignore log files    
+logs/
+*.log
+# Optional: Ignore IDE specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+
+
+
+
+                
